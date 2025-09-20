@@ -20,3 +20,18 @@ I am a student nearing the end of my Higher Technician in Web Page Development a
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="mailto:franklinbruzual2017@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
+
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frankl1nxd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frankl1nxd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frankl1nxd&theme=holi-theme">
+</p>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+-----
+
+Last Edited on: 20/09/2025
